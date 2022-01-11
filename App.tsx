@@ -6,7 +6,7 @@ export default function App(){
 
     return(
         <View>
-            <Text>hello world!</Text>
+            <Text>fail</Text>
         </View>
     )
 }
