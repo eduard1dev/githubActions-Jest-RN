@@ -27,8 +27,8 @@ jobs:
           node-version: '14.x'
       - run: yarn
 
-      - name: 'Tests'
-      - run: yarn test
+      - name: Tests
+        run: yarn test
 
-      - name: 'Lint'
-      - run: yarn lint
+      - name: Lint
+        run: yarn lint
